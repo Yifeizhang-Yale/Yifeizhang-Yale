@@ -7,16 +7,16 @@ A shared starting point for the Yize Zhao team's research resources, collaborati
 | Explore | What you will find |
 | --- | --- |
 | **[Data & shared resources →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/RESOURCES.md)** | Data catalog, reusable tools, scripts, setup guides, and practical documentation. |
-| **[Shared projects →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/SHARED_PROJECTS.md)** | Project repositories, collaborators, supporting materials, and ways to contribute. |
+| **[Shared projects →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/SHARED_PROJECTS.md)** | Develop in your own HPC workspace and bring changes together through GitHub review. |
 | **[How to work on HPC →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/HPC.md)** | Connect to Bouchet, prepare an environment, submit jobs, and organize research files. |
 | **[Meeting slides →](https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file)** | Presentations indexed by speaker and title, with files organized by year and month. |
 | **[Share a resource or correction →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/issues/new?template=share-resource.yml)** | A place to suggest useful materials, add a project, or correct an existing entry. |
 
 ## Work on a project
 
-Each project keeps its code, setup instructions, documentation, tasks, and reviews in its own repository. Access is managed separately for the collaborators involved in that project.
+Each member works in their own HPC clone and environment. Each project keeps its shared code, setup instructions, tasks, and reviews in one GitHub repository. Access is managed separately for the collaborators involved.
 
-**Choose a project → agree on a task → work in a branch → open a pull request → review and merge.**
+**Choose a task → develop on HPC → commit and run that version → push → review and merge.**
 
 Code, tests, examples, documentation, and bug reports are all useful contributions. Include the purpose, contributors, repository link, and access instructions when adding a project to the directory.
 
