@@ -8,6 +8,7 @@ A shared starting point for the Yize Zhao team's research resources, collaborati
 | --- | --- |
 | **[Data & shared resources →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/RESOURCES.md)** | Data catalog, reusable tools, scripts, setup guides, and practical documentation. |
 | **[Shared projects →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/SHARED_PROJECTS.md)** | Project repositories, collaborators, supporting materials, and ways to contribute. |
+| **[How to work on HPC →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/HPC.md)** | Connect to Bouchet, prepare an environment, submit jobs, and organize research files. |
 | **[Meeting slides →](https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file)** | Presentations indexed by speaker and title, with files organized by year and month. |
 | **[Share a resource or correction →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/issues/new?template=share-resource.yml)** | A place to suggest useful materials, add a project, or correct an existing entry. |
 
