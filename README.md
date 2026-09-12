@@ -18,7 +18,7 @@ Biostatistics PhD student at Yale. This is the starting point for my code, share
 <tr>
 <td colspan="2">
 <h3><a href="https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file">Meeting slides →</a></h3>
-<p>Private slides, organized by year and month. Updated on Mondays.</p>
+<p>Private slides, organized by year and month. Updated on Mondays. GitHub sign-in required.</p>
 </td>
 </tr>
 </table>
