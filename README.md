@@ -1,42 +1,32 @@
-<p><strong>YIFEI ZHANG · YALE UNIVERSITY</strong></p>
+<p><strong>YIZE ZHAO TEAM · MEMBER RESOURCES</strong></p>
 
-# Research, code & collaboration
+# Research, resources & collaboration
 
-Biostatistics PhD student at Yale. This is the starting point for my code, shared tools, and collaborative projects.
+A shared starting point for the Yize Zhao team's research resources, collaborative projects, and group meeting materials.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/blob/main/PROJECTS.md">Explore projects →</a></h3>
-<p>Find project code, documentation, and ways to contribute.</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Yifeizhang-Yale/collaboration-sandbox">Collaboration workspace →</a></h3>
-<p>A private pilot for shared code, tasks, and pull requests. Invitation required.</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><a href="https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file">Meeting slides →</a></h3>
-<p>Private slides, organized by year and month. Updated on Mondays. GitHub sign-in required.</p>
-</td>
-</tr>
-</table>
+| Explore | What you will find |
+| --- | --- |
+| **[Data & shared resources →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/RESOURCES.md)** | Data catalog, reusable tools, scripts, setup guides, and practical documentation. |
+| **[Shared projects →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/blob/codex/member-preview/SHARED_PROJECTS.md)** | Project repositories, collaborators, supporting materials, and ways to contribute. |
+| **[Meeting slides →](https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file)** | Presentations indexed by speaker and title, with files organized by year and month. |
+| **[Share a resource or correction →](https://github.com/Yifeizhang-Yale/zhao-team-member-sandbox/issues/new?template=share-resource.yml)** | A place to suggest useful materials, add a project, or correct an existing entry. |
 
-## Featured tool
+## Work on a project
 
-**[Data Management Agent](https://github.com/Yifeizhang-Yale/AI_agent/tree/main/Data_Management)**
+Each project keeps its code, setup instructions, documentation, tasks, and reviews in its own repository. Access is managed separately for the collaborators involved in that project.
 
-Read-only cataloging and search for neuroimaging data on HPC clusters.
+**Choose a project → agree on a task → work in a branch → open a pull request → review and merge.**
 
-[Code](https://github.com/Yifeizhang-Yale/AI_agent/tree/main/Data_Management) · [User guide](https://github.com/Yifeizhang-Yale/AI_agent/blob/main/Data_Management/docs/USER_GUIDE.md) · [Issues](https://github.com/Yifeizhang-Yale/AI_agent/issues)
+Code, tests, examples, documentation, and bug reports are all useful contributions. Include the purpose, contributors, repository link, and access instructions when adding a project to the directory.
 
-## Work together
+## Keep group knowledge easy to find
 
-**Choose a project → agree on a task → contribute in a branch → review a pull request.**
+Use **Slack** for quick questions, discussion, and meeting announcements. Keep reusable materials in the shared resource directory, and record project tasks and decisions in the relevant repository.
 
-Code, tests, examples, documentation, and bug reports are all useful contributions. Each project keeps its working files and conversations in its own repository.
+Group meetings take place on **Fridays**. The slides archive is scheduled to check Slack for updates each **Monday**. Oversized presentations link to the original Slack post.
 
-[How to join or start a project →](https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/blob/main/WORK_WITH_ME.md)
+## Access
 
-<sub>Private workspaces are visible to invited collaborators. If a workspace link shows 404, sign in with your invited account or contact me through our existing channel.</sub>
+Sign in with an account that has access to the linked private repository or Slack workspace. Contact the relevant project or resource maintainer to arrange access.
+
+<sub>Proposed group member homepage · preview hosted in Yifei's personal workspace for review.</sub>
