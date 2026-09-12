@@ -19,7 +19,8 @@ Biostatistics PhD student at Yale. This is the starting point for my code, share
 
 ## Featured tool
 
-**[Data Management Agent](https://github.com/Yifeizhang-Yale/AI_agent/tree/main/Data_Management)**  
+**[Data Management Agent](https://github.com/Yifeizhang-Yale/AI_agent/tree/main/Data_Management)**
+
 Read-only cataloging and search for neuroimaging data on HPC clusters.
 
 [Code](https://github.com/Yifeizhang-Yale/AI_agent/tree/main/Data_Management) · [User guide](https://github.com/Yifeizhang-Yale/AI_agent/blob/main/Data_Management/docs/USER_GUIDE.md) · [Issues](https://github.com/Yifeizhang-Yale/AI_agent/issues)
