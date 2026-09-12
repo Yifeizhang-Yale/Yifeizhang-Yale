@@ -15,6 +15,12 @@ Biostatistics PhD student at Yale. This is the starting point for my code, share
 <p>A private pilot for shared code, tasks, and pull requests. Invitation required.</p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<h3><a href="https://github.com/Yifeizhang-Yale/Yifeizhang-Yale/tree/main/file">Meeting slides →</a></h3>
+<p>Private slides, organized by year and month. Updated on Mondays.</p>
+</td>
+</tr>
 </table>
 
 ## Featured tool
